@@ -1,0 +1,6 @@
+{
+    "get_token_url":"http://127.0.0.1:8000/token/",
+    "refresh_token_url":"http://127.0.0.1:8000/token/refresh/",
+    "test":"http://127.0.0.1:8000/usFunc2/test/",
+    "get_quotes":"http://127.0.0.1:8000/usFunc2/quotes/"
+}
